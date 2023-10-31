@@ -1,0 +1,23 @@
+@charset "ISO-8859-1";
+body{
+	background-image: url("/Student_Management/getImages/bg3.jpg");
+	font-family: monospace;
+	font-size:20px;
+	color:black
+}
+
+label {
+	color: black;
+	font-size: 20px;
+}
+h2{
+	color:red;
+}
+input {
+	font-size: 20px;
+}
+.submit{
+	color:white;
+	background-color: maroon;
+	padding:10px 20px 10px 20px;
+}

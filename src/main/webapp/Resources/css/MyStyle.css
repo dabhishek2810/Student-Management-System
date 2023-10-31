@@ -1,0 +1,23 @@
+@charset "ISO-8859-1";
+h1{
+	color: red;
+
+}
+body{
+	background-image: url("/Student_Management/getImages/bg3.jpg");
+	background-position: center;
+ 	 background-repeat: no-repeat;
+ 	 background-size: cover;
+}
+.myButton{
+	background-color: maroon;
+	color:white;
+	padding:10px 20px 10px 20px;
+	font-size: 20px;
+}
+
+
+.myTable{
+	width: 80%;
+	align-content: center;
+}
